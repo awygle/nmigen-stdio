@@ -1,5 +1,5 @@
 from nmigen import *
-from darkscope.nmigen_stream import *
+from nmigen.lib.stream import *
 
 import enum
 
